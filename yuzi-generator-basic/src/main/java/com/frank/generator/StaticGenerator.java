@@ -2,7 +2,6 @@ package com.frank.generator;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.util.ArrayUtil;
-
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,0 +1,25 @@
+{
+  "name": "yuzi-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.java\"",
+    "format:check": "prettier --check \"**/*.java\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankZhaoYX/yuzi-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankZhaoYX/yuzi-generator/issues"
+  },
+  "homepage": "https://github.com/FrankZhaoYX/yuzi-generator#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "prettier-plugin-java": "^2.8.1"
+  }
+}
